@@ -13,9 +13,7 @@ public class Task {
     public String description;
     public boolean done;
 
-    Task(){
-
-    }
+    public Task() {};
 
     public int getId() {
         return id;
